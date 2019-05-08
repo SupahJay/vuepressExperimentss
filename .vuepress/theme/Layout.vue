@@ -1,6 +1,7 @@
 <template>
   <div>
-    <p class="text-red">hi</p>
+    <Header-Nav/>
+    <Content/>
   </div>
 </template>
 <style>
