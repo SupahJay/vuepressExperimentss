@@ -7,8 +7,7 @@ actionLink: /guide/
 
 <div class="features">
   <div class="feature">
-    <Header/>
-    <h2>Simplicityy First</h2>
+    <h2>Simplicity First</h2>
     <p>Minimal setup with markdown-centered project structure helps you focus on writing.</p>
   </div>
   <div class="feature">
