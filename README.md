@@ -7,6 +7,7 @@ actionLink: /guide/
 
 <div class="features">
   <div class="feature">
+    <Img-Hero src="hero.png" />
     <h2>Simplicity First</h2>
     <p>Minimal setup with markdown-centered project structure helps you focus on writing.</p>
   </div>

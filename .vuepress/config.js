@@ -6,8 +6,8 @@
 // https://v1.vuepress.vuejs.org/config/
 
 module.exports = {
-  title: "VuePress + CodeSandbox = ❤",
-  description: "VuePress starter template for CodeSandbox",
+  title: "Moabe",
+  description: "Novo portifolio em Vuepress",
   theme: "@vuepress/vue",
   themeConfig: {
     navBar: false,
