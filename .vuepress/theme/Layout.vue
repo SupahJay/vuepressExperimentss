@@ -4,7 +4,6 @@
     <Content/>
   </div>
 </template>
-<style>
-@import "./test.css";
-@import "./styles/theme.css";
+<style lang="scss">
+@import "./styles/theme.scss";
 </style>
