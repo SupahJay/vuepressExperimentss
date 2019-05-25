@@ -8,7 +8,7 @@
 module.exports = {
   title: "Moabe",
   description: "Novo portifolio em Vuepress",
-  theme: "@vuepress/vue",
+  // theme: "@vuepress/vue",
   themeConfig: {
     navBar: false,
     nav: false,
