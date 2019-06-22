@@ -6,5 +6,5 @@ actionLink: /guide/
 ---
 
 <div>
-<Img-Hero src="hero.png" />
+    <Img-Hero src="hero.png" />
 </div>

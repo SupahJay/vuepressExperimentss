@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "package-lock.json": true,
+        "package.json": true,
+        "sandbox.config.json": true,
+        ".vscode": true,
+        ".vuepress/dis": true,
+        ".gitignore": true,
+        ".favorites.json": true,
+        "yarn.lock": true
+    }
+}

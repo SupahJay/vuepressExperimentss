@@ -1,0 +1,29 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\package.json",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\package.json",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6kCrVSU5c92oIg0s"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\.vscode\\settings.json",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\.vscode\\settings.json",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "iOF6NTC1Sw5WZK89"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\.gitignore",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\PC i3\\Documents\\Projetos\\Portifolio\\.gitignore",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "VKfutye4BDMwbrPZ"
+    }
+]
