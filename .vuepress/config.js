@@ -6,7 +6,7 @@
 // https://v1.vuepress.vuejs.org/config/
 
 module.exports = {
-  base: 'https://moabelgomes.gitlab.io/vuepressExperimentss/',
+  base: '/vuepressExperimentss/',
   title: "Moabe",
   description: "Novo portifolio em Vuepress",
   theme: "@vuepress/vue",
