@@ -6,6 +6,7 @@
         "sandbox.config.json": true,
         ".vscode": true,
         ".vuepress/dis": true,
+        ".gitlab-ci.yml": true,
         ".gitignore": true,
         ".favorites.json": true,
         "yarn.lock": true
