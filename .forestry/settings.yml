@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: General
 - type: directory
   path: "**/*"
   label: Content
   create: all
   match: "*.md"
-- type: heading
-  label: General
 - type: directory
   path: "."
   label: Directory
