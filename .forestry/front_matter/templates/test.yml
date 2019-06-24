@@ -13,3 +13,5 @@ fields:
     required: false
   label: Title
   description: Page title
+pages:
+- "**/*/test/hello-there.md"
