@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: "**/*.md"
+  path: "**/*"
   label: Content
   create: all
-  match: "**/*"
+  match: "*.md"
 - type: heading
   label: General
 - type: directory
