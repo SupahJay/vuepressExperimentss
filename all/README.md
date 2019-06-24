@@ -1,11 +1,13 @@
-# hello
+# This page is a experiment
 
-asdfasdfsd
+List all pages
 
-## hekko
+## {{ $site.pages }} pages.
 
 <section v-for="i in $site.pages">
 <a :href="'..'+i.path">{{i.title}}</a>
 <p>Nothing yet...</p>
 {{i}}<br>
+<br>
+<hr>
 </section>
