@@ -7,3 +7,9 @@ fields:
   config:
     required: false
   label: Teste
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Page title
