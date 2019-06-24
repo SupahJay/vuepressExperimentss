@@ -11,7 +11,7 @@ sections:
   label: Content
   create: all
   match: "*.md"
-  exclude: ".*"
+  exclude: "**/*.*"
 - type: directory
   path: "."
   label: Directory
