@@ -1,12 +1,11 @@
++++
+
++++
 # This page is a experiment
 
 List all pages
 
 ## {{ $site.pages.length }} pages.
-
-
-
-
 
 <section v-for="(i, index) in $site.pages">
 <p>Post {{ index + 1 }}.</p>
@@ -15,3 +14,6 @@ List all pages
 <br>
 <hr>
 </section>
+
+will this connect to gitlab?  
+pehaps???
