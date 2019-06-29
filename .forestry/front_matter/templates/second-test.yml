@@ -10,5 +10,4 @@ fields:
   label: Title
   description: Page title
 pages:
-- "./:filename:"
 - blog/readme-md.md
