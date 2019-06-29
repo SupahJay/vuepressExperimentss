@@ -1,5 +1,5 @@
 ---
-title: readme
+title: Another sub
 
 ---
 Hello there!
