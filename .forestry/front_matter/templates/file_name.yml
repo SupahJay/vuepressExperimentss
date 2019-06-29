@@ -1,4 +1,11 @@
 ---
 label: file_name
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  hidden: true
+  default: readme
