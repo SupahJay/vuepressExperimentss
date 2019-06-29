@@ -7,7 +7,6 @@ sections:
 - type: document
   path: "."
   label: Home
-  match: "**/*"
 - type: heading
   label: General
 - type: directory
