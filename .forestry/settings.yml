@@ -13,7 +13,7 @@ sections:
   match: "*.md"
   exclude: "**/*.*"
 - type: directory
-  path: "."
+  path: ''
   label: Directory
   create: all
   match: "**/*"
