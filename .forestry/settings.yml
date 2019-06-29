@@ -23,7 +23,7 @@ sections:
   match: "**/*"
 - type: directory
   path: blog
-  label: Blog post
+  label: Blog
   create: all
   match: "**/*"
 upload_dir: ".vuepress/public"
