@@ -1,6 +1,7 @@
 ---
 label: file_name
 hide_body: false
+file_template: ":year:/:month:/:filename:"
 fields:
 - name: title
   type: text

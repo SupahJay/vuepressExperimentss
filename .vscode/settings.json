@@ -12,5 +12,5 @@
         "yarn.lock": true
     },
     "git.autofetch": true,
-    "git.autofetchPeriod": 15
+    "git.autofetchPeriod": 180
 }
