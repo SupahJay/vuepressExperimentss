@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: title
-  hidden: true
+  hidden: false
   default: readme
 pages:
 - blog/hello/readme.md
