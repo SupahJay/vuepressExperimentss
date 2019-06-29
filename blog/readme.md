@@ -1,5 +1,5 @@
 ---
-title: readme.md
+title: Test file - index
 
 ---
 # hello world this is a test
