@@ -1,4 +1,11 @@
 ---
 label: second test
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  default: readme.md
+  label: Title
+  description: Page title
