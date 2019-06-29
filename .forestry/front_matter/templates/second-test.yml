@@ -10,5 +10,6 @@ fields:
   label: Title
   description: Page title
 pages:
+- blog/readme.md
 - blog/test/readme.md
 - blog/readme.md

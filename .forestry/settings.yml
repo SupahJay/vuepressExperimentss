@@ -30,7 +30,7 @@ upload_dir: ".vuepress/public"
 public_path: ".vuepress/public"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: 'readme/:filename:'
 build:
   preview_command: vuepress build -d .vuepress/dist
   publish_command: vuepress build -d .vuepress/dist
@@ -39,4 +39,3 @@ build:
   instant_preview_command: vuepress dev -p 8080 -h 0.0.0.0
   preview_docker_image: forestryio/build:latest
   mount_path: "/opt/buildhome/repo"
-  file_template: ":year:/:month:/:filename:"
