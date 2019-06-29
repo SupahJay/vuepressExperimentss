@@ -1,6 +1,6 @@
 ---
 test: teste in its right place
-title: test
+title: readme.md
 
 ---
 # hello world
