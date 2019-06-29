@@ -6,7 +6,7 @@ fields:
   type: text
   config:
     required: false
-  default: readme.md
+  default: readmemd
   label: Title
   description: Page title
 pages:

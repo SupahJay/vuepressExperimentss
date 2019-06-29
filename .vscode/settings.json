@@ -10,5 +10,7 @@
         ".gitignore": true,
         ".favorites.json": true,
         "yarn.lock": true
-    }
+    },
+    "git.autofetch": true,
+    "git.autofetchPeriod": 15
 }
