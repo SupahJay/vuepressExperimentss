@@ -9,3 +9,5 @@ fields:
   label: title
   hidden: true
   default: readme
+pages:
+- blog/hello/readme.md
