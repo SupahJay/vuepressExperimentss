@@ -30,7 +30,7 @@ upload_dir: ".vuepress/public"
 public_path: ".vuepress/public"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: 'readme/readme/:filename:'
+file_template: 'readme/:filename:'
 build:
   preview_command: vuepress build -d .vuepress/dist
   publish_command: vuepress build -d .vuepress/dist
