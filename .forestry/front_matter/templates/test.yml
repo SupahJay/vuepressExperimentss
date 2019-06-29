@@ -14,5 +14,6 @@ fields:
   label: Title
   description: Page title
 pages:
+- ttt/test.md
 - test.md
 - "**/*/test/hello-there.md"
