@@ -4,11 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: "."
-  label: Home
 - type: heading
   label: General
+- type: document
+  path: readme.md
+  label: Home
+  match: "**/*"
 - type: directory
   path: ''
   label: Content
