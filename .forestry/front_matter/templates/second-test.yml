@@ -9,5 +9,3 @@ fields:
   default: readme.md
   label: Title
   description: Page title
-pages:
-- readme-md.md

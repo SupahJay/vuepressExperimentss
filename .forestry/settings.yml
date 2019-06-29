@@ -16,6 +16,11 @@ sections:
   label: Directory
   create: all
   match: "**/*"
+- type: directory
+  path: blog
+  label: Blog post
+  create: all
+  match: "**/*"
 - type: document
   path: "./:filename:"
   label: New post

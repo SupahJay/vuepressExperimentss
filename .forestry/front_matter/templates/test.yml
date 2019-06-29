@@ -13,12 +13,3 @@ fields:
     required: false
   label: Title
   description: Page title
-pages:
-- aaa/readme-md.md
-- ttt/test.md
-- test.md
-- hello.md
-- test.md
-- ttt/test.md
-- aaa/readme-md.md
-- "**/*/test/hello-there.md"
