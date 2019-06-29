@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: readme.md
+  path: README.md
   label: Home
 - type: heading
   label: Directories
