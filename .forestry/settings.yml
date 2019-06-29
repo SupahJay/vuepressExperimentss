@@ -7,9 +7,8 @@ sections:
 - type: heading
   label: General
 - type: document
-  path: readme.md
+  path: README.md
   label: Home
-  match: "**/*"
 - type: directory
   path: ''
   label: Content
