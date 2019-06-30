@@ -9,3 +9,5 @@ fields:
   label: Title
   description: "*Please change only change the filename after it's published."
   default: readme
+pages:
+- blog/NewOne/readme.md
