@@ -10,5 +10,6 @@ fields:
   hidden: false
   default: readme
 pages:
+- blog/nice/readme.md
 - blog/readme-1.md
 - blog/hello/readme.md
