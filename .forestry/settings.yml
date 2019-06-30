@@ -16,6 +16,7 @@ sections:
   label: Content
   create: documents
   match: "**/*.md"
+  exclude: ".vuepress"
 - type: directory
   path: ''
   label: Directory
