@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Site Config
 - type: document
-  path: ".forestry\\settings.yml"
+  path: ".forestry/settings.yml"
   label: Config
 - type: heading
   label: Directories
