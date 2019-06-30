@@ -1,4 +1,11 @@
 ---
 label: Test Title
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: "*Please change only change the filename after it's published."
+  default: readme
