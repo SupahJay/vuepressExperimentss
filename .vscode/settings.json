@@ -6,6 +6,7 @@
         "sandbox.config.json": true,
         ".vscode": true,
         ".vuepress/dis": true,
+        ".forestry": true,
         ".gitlab-ci.yml": true,
         ".gitignore": true,
         ".favorites.json": true,

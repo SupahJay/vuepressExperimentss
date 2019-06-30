@@ -10,6 +10,11 @@ sections:
   path: README.md
   label: Home
 - type: heading
+  label: Site Config
+- type: document
+  path: .forestry\settings.yml
+  label: Config
+- type: heading
   label: Directories
 - type: directory
   path: ''
