@@ -8,8 +8,6 @@ pages:
   script:
   - yarn install
   - yarn run build
-  - mkdir public
-  - mv .vuepress/dist/* public
 
 
   artifacts:

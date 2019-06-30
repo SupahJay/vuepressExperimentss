@@ -18,5 +18,7 @@
     "sass-loader": "^7.1.0",
     "vuepress": "^1.0.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vuepress-plugin-clean-urls": "^1.0.3"
+  }
 }

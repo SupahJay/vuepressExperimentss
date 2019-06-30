@@ -6,7 +6,9 @@
 // https://v1.vuepress.vuejs.org/config/
 
 module.exports = {
+  // plugins:['vuepress-plugin-clean-urls', true],
   base: '/vuepressExperimentss/',
+  dest:'public',
   title: "Moabe",
   description: "Novo portifolio em Vuepress",
   theme: "@vuepress/vue",
