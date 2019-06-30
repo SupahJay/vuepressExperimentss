@@ -11,4 +11,3 @@ fields:
   default: readme
 pages:
 - blog/nice/readme.md
-- blog/readme-1.md
