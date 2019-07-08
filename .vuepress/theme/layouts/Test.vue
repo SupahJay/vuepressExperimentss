@@ -5,5 +5,5 @@
   </div>
 </template>
 <style>
-@import "../styles/theme.css";
+@import "../styles/theme.less";
 </style>

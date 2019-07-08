@@ -1,5 +1,6 @@
 ---
 home: true
+nav: true
 heroImage: /hero.png
 actionText: Get started →
 actionLink: /guide/

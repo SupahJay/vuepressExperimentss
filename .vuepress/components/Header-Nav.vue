@@ -1,8 +1,5 @@
 <template>
-  <header>
-    <a href="./">Home</a>
-    <a href="./">One</a>
-    <a href="./">Another</a>
-    <a href="./">Last</a>
+  <header class="main-nav">
+      <a v-for="(i, index) in $site.pages" :href="'..'+i.path">{{i.title}}</a>
   </header>
 </template>

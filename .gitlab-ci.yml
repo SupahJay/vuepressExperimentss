@@ -9,10 +9,9 @@ pages:
   - yarn install
   - yarn run build
 
-
   artifacts:
     paths:
     - public
-  
+
   only:
   - master
